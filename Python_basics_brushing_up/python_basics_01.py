@@ -22,3 +22,5 @@ print(x)
 def fun():
     print("Welcome to GFG")
 print(fun())
+
+
