@@ -29,4 +29,5 @@ PS C:\Users\AAGAMA AR\OneDrive\Desktop\computer _vision_workshop_excel>
  code .
 #ithanu type cheyyendathu to open vs code directly :
 
+#create a virtual environment
 
