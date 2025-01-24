@@ -1,0 +1,14 @@
+IMPORTANCE OF COMPUTER VISION
+
+Importance:
+
+    # Automates visual tasks Eg. detection, recognition, classification
+    # Reduces human effort in repetitive tasks
+    # Enables advancements in multiple fields like robotics, heath care and autonomous systems
+
+Heathcare
+Medical imaging and diagnosis
+Autonomous vehicles Object detection
+
+
+Image and Video Processing

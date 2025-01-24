@@ -3,9 +3,9 @@ COMPUTER VISION field of AI
 Enables machines to interpret and make decisions based on visual data from the world
 
 Key Components:
-    #Image acquisition
-    #preprocessing
-    #analysis and interpretation
-    #decision making
+    #  Image acquisition
+    #  Preprocessing
+    #  Analysis and interpretation
+    #  Decision making
 
 Statistics enables you to make predictions and decisions.
