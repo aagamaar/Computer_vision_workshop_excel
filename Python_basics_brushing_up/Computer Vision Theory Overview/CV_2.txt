@@ -12,3 +12,7 @@ Autonomous vehicles Object detection
 
 
 Image and Video Processing
+
+PS C:\Users\AAGAMA AR\OneDrive\Desktop\computer _vision_workshop_excel>
+ code .
+#ithanu type cheyyendathu to open vs code directly :
