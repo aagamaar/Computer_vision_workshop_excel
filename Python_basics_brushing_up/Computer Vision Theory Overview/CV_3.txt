@@ -1,7 +1,7 @@
 #   TO PREPROCESSS THE IMAGES
 
 import cv2
-from google.colab.patches import cv2_imshow
+from google.colab.patches import cv2_imshow    #only for google colab 
 
 img = cv2.imread("logo.jpg",1)
 img = cv2.resize(img,(0,0), fx=1, fy=1)
