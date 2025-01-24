@@ -11,4 +11,9 @@ print(x)
 
 #Aagama
 
+#Boolean
+x=False
+print(x)
+
+#False
 
